@@ -1,0 +1,11 @@
+1665059478091	geckodriver	INFO	Listening on 127.0.0.1:57043
+1665059481148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vande\\AppData\\Local\\Temp\\rust_mozprofilehy5qE9"
+1665059481713	Marionette	INFO	Marionette enabled
+1665059481721	Marionette	INFO	Listening on port 57055
+Read port: 57055
+WebDriver BiDi listening on ws://127.0.0.1:57044
+1665059481890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vande\\AppData\\Local\\Temp\\rust_mozprofilehy5qE9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57044/devtools/browser/669b354f-6b93-478b-be30-91abac56346f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://automationpractice.com."
+1665059508238	Marionette	INFO	Stopped listening on port 57055
